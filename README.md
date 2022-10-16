@@ -1,1 +1,1 @@
-https://bijutamang.github.io/nepali-dictionary/
+<a href="https://bijutamang.github.io/nepali-dictionary/" target="_blank">Web</a>
