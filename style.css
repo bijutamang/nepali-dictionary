@@ -38,7 +38,10 @@
 
 th {
   padding: 1rem;
-  background-color: #f6f6f6;
+  background-color: #a8a7a7;
+  letter-spacing: 2px;
+  font-size: 1.1rem;
+  color: rgb(41, 40, 40);
   width: 45rem;
 }
 
@@ -55,7 +58,7 @@ th {
   margin-left: 15rem;
 }
 .pronunciation {
-  margin-left: 15rem;
+  margin-left: 11rem;
 }
 a .english {
   font-weight: 800;
